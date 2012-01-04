@@ -10,17 +10,17 @@ Please goto issues http://github.com/kb1ooo/snappy-public/issues
 CHANGES
 -------
 
-3.0-b-1:
-   Original release
-
-3.0-b1-2:
-   Fixes issues 1-4
-
-3.0-b1-5:
-   Fixes issue 8
+3.0-rc1:
+   Fixes issues 17-19
 
 3.0-b1-6:
    Fixes issue 16
 
-3.0-rc1:
-   Fixes issues 17-19
+3.0-b1-5:
+   Fixes issue 8
+
+3.0-b1-2:
+   Fixes issues 1-4
+
+3.0-b-1:
+   Original release
