@@ -10,6 +10,13 @@ Please goto issues http://github.com/kb1ooo/snappy-public/issues
 CHANGES
 -------
 
+3.0.1  (Jan 17, 2012)
+  1. Fixes mode override for open to camera/video from lock screen (Issue #26)
+  2. Fixes snap on launch from lock screen (Issue #25)
+
+3.0.0  (Jan 9, 2012)
+  Initial Release
+
 3.0-rc1:
    Fixes issues 17-19
 
